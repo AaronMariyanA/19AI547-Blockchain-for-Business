@@ -1,6 +1,6 @@
 # Experiment 5: Zero-Knowledge Proof (ZK) Private Voting System
-## Name:Dhivya Dharshini B
-## Reg no:212223240031
+## Name:Aaron Mariyan A
+## Reg no:212224040004
 ## Date:23/4/25
 # Aim:
 To implement a fully private and transparent voting system using Zero-Knowledge Proofs (ZKPs). This ensures that votes are counted fairly without revealing who voted for whom.
