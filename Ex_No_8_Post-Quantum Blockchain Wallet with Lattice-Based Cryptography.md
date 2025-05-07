@@ -23,8 +23,8 @@ Step 7: Event Logging: Emit events to confirm user registration and successful t
 
 # Program:
 
-### Developed by: ARUN KUMAR B
-### Register number: 212223230021
+### Developed by: Aaron Mariyan A
+### Register number: 212224040004
 
 (Solidity does not natively support lattice cryptography yet, but we simulate it using custom hash-based authentication.)
 ```
